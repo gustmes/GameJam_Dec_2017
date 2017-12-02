@@ -1,0 +1,3 @@
+C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Source\GameJam_RecnPlay2017\GameJam_RecnPlay2017.Build.cs
+C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Source\GameJam_RecnPlay2017.Target.cs
+C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Source\GameJam_RecnPlay2017Editor.Target.cs
