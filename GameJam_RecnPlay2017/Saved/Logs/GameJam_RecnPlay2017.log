@@ -1,18 +1,19 @@
-﻿Log file open, 12/02/17 20:02:54
+﻿Log file open, 12/02/17 20:31:17
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
-LogInit: Display: Running engine for game: GameJam_RecnPlay2017
+LogInit: Display: Running engine without a game
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1063828716) SRandInit(1063828716).
+LogInit: Display: Loading recent project file: ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/GameJam_RecnPlay2017.uproject
+LogInit: Display: RandInit(1596774513) SRandInit(1596774513).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.120317
+LogStats: Stats thread started at 0.140824
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -75,104 +76,6 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
-LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
-LogInit: Warning: Incompatible or missing module: UE4Editor-GameJam_RecnPlay2017.dll
-Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe GameJam_RecnPlay2017 Development Win64 -project="C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/GameJam_RecnPlay2017.uproject" -editorrecompile -progress -NoHotReloadFromIDE
-Using 'git status' to determine working set for adaptive non-unity build.
-Creating makefile for GameJam_RecnPlay2017 (no existing makefile)
-Performing full C++ include scan (no include cache file)
-@progress push 5%
-Parsing headers for GameJam_RecnPlay2017Editor
-  Running UnrealHeaderTool "C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\GameJam_RecnPlay2017.uproject" "C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Intermediate\Build\Win64\GameJam_RecnPlay2017Editor\Development\GameJam_RecnPlay2017Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-Reflection code generated for GameJam_RecnPlay2017Editor in 7.5174443 seconds
-@progress pop
-Performing 11 actions (2 in parallel)
-[2/11] Resource ModuleVersionResource.rc.inl
-[3/11] Resource PCLaunch.rc
-SharedPCH.Engine.cpp
-GameJam_RecnPlay2017Character.cpp
-GameJam_RecnPlay2017.cpp
-GameJam_RecnPlay2017GameMode.cpp
-GameJam_RecnPlay2017.init.gen.cpp
-GameJam_RecnPlay2017Character.gen.cpp
-GameJam_RecnPlay2017GameMode.gen.cpp
-[10/11] Link UE4Editor-GameJam_RecnPlay2017.dll
-[11/11] Link UE4Editor-GameJam_RecnPlay2017.lib
-   Creating library C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam_RecnPlay2017.lib and object C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam_RecnPlay2017.exp
-   Creating library C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam_RecnPlay2017.suppressed.lib and object C:\Users\gustm\Documents\Unreal Projects\GameJam_Dec_2017\GameJam_RecnPlay2017\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameJam_RecnPlay2017.suppressed.exp
-Total build time: 67.71 seconds (Local executor: 51.89 seconds)
 LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Binaries/Win64/UE4Editor-GameJam_RecnPlay2017.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -288,422 +191,966 @@ LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  
+LogInit: Command line: 
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.02-23.04.09:166][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.02-23.04.09:166][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.02-23.04.09:177][  0]LogInit: Computer: DESKTOP-EMBOHVS
-[2017.12.02-23.04.09:177][  0]LogInit: User: gustm
-[2017.12.02-23.04.09:177][  0]LogInit: CPU Page size=4096, Cores=2
-[2017.12.02-23.04.09:177][  0]LogInit: High frequency timer resolution =2.835936 MHz
-[2017.12.02-23.04.09:177][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
-[2017.12.02-23.04.09:177][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.02-23.04.09:177][  0]LogMemory: Process Physical Memory: 278.48 MB used, 278.48 MB peak
-[2017.12.02-23.04.09:177][  0]LogMemory: Process Virtual Memory: 270.51 MB used, 270.51 MB peak
-[2017.12.02-23.04.09:177][  0]LogMemory: Physical Memory: 5296.03 MB used,  6872.14 MB free, 12168.17 MB total
-[2017.12.02-23.04.09:177][  0]LogMemory: Virtual Memory: 687.84 MB used,  6872.14 MB free, 134217728.00 MB total
-[2017.12.02-23.04.09:673][  0]LogInit: Using OS detected language (en-US).
-[2017.12.02-23.04.09:673][  0]LogInit: Using OS detected locale (en-US).
-[2017.12.02-23.04.09:677][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2017.12.02-23.04.10:048][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.02-23.04.10:360][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.02-23.04.10:386][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
-[2017.12.02-23.04.10:386][  0]LogD3D11RHI:       2019/0/6084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.12.02-23.04.10:392][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
-[2017.12.02-23.04.10:392][  0]LogD3D11RHI:       128/0/6084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.12.02-23.04.10:393][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.02-23.04.10:393][  0]LogD3D11RHI:       0/0/6084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.02-23.04.10:393][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.02-23.04.10:399][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.02-23.04.10:399][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
-[2017.12.02-23.04.10:399][  0]LogWindows: EnumDisplayDevices:
-[2017.12.02-23.04.10:399][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
-[2017.12.02-23.04.10:400][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2017.12.02-23.04.10:400][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2017.12.02-23.04.10:400][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2017.12.02-23.04.10:400][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
-[2017.12.02-23.04.10:400][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2017.12.02-23.04.10:400][  0]LogD3D11RHI:      Driver Date: Unknown
-[2017.12.02-23.04.10:400][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
-[2017.12.02-23.04.10:415][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.02-23.04.10:432][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2017.12.02-23.04.10:433][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Intermediate/Shaders/WorkingDirectory/292/).
-[2017.12.02-23.04.10:433][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gustm/AppData/Local/Temp/UnrealShaderWorkingDir/53A0FEA645E29B7D381DD89673CF101B/'.
-[2017.12.02-23.04.10:433][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.02-23.04.11:355][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.02-23.04.11:415][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.02-23.04.11:469][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.02-23.04.11:531][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.02-23.04.11:586][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.02-23.04.11:640][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.02-23.04.11:695][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.02-23.04.11:755][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.02-23.04.11:803][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.02-23.04.11:857][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.02-23.04.11:909][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.02-23.04.11:965][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.02-23.04.12:040][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.02-23.04.12:108][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.02-23.04.12:251][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.02-23.04.12:251][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.02-23.04.12:314][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.02-23.04.12:362][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.02-23.04.12:466][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.02-23.04.12:503][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.02-23.04.12:590][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.02-23.04.12:659][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.02-23.04.12:735][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.02-23.04.12:806][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.02-23.04.12:806][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.02-23.04.13:456][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.02-23.04.13:539][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/gustm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.02-23.04.13:540][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gustm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.02-23.04.13:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.02-23.04.13:540][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.02-23.04.13:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.02-23.04.13:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.02-23.04.13:556][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.02-23.04.13:568][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gustm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.02-23.04.13:578][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.02-23.04.13:579][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.02-23.04.13:580][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.02-23.04.13:580][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.02-23.04.14:043][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.02-23.04.14:477][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.02-23.04.14:538][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.02-23.04.14:538][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.02-23.04.14:538][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.02-23.04.14:538][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.02-23.04.14:538][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.02-23.04.14:572][  0]LogNetVersion: GameJam_RecnPlay2017 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3713632617)
-[2017.12.02-23.04.14:774][  0]LogAssetRegistry: FAssetRegistry took 0.0385 seconds to start up
-[2017.12.02-23.04.20:674][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.106593 seconds
-[2017.12.02-23.04.20:678][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.02-23.04.20:679][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2017.12.02-23.04.20:679][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.02-23.04.20:740][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.02-23.04.24:098][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.02-23.04.24:150][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.02-23.04.24:727][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter'
-[2017.12.02-23.04.24:727][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter'
-[2017.12.02-23.04.24:727][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
-[2017.12.02-23.04.24:727][  0]Error: CDO Constructor (GameJam_RecnPlay2017GameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.02-23.31.20:526][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-23.31.20:526][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.02-23.31.20:546][  0]LogInit: Computer: DESKTOP-EMBOHVS
+[2017.12.02-23.31.20:546][  0]LogInit: User: gustm
+[2017.12.02-23.31.20:546][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.02-23.31.20:546][  0]LogInit: High frequency timer resolution =2.835936 MHz
+[2017.12.02-23.31.20:546][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.12.02-23.31.20:546][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.02-23.31.20:546][  0]LogMemory: Process Physical Memory: 272.23 MB used, 272.23 MB peak
+[2017.12.02-23.31.20:546][  0]LogMemory: Process Virtual Memory: 269.25 MB used, 269.25 MB peak
+[2017.12.02-23.31.20:546][  0]LogMemory: Physical Memory: 5964.02 MB used,  6204.16 MB free, 12168.17 MB total
+[2017.12.02-23.31.20:546][  0]LogMemory: Virtual Memory: 625.99 MB used,  6204.16 MB free, 134217728.00 MB total
+[2017.12.02-23.31.20:736][  0]LogInit: Using OS detected language (en-US).
+[2017.12.02-23.31.20:736][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.02-23.31.20:739][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.02-23.31.21:195][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.02-23.31.21:563][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.02-23.31.21:596][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2017.12.02-23.31.21:596][  0]LogD3D11RHI:       2019/0/6084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.02-23.31.21:603][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2017.12.02-23.31.21:603][  0]LogD3D11RHI:       128/0/6084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.02-23.31.21:604][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.02-23.31.21:604][  0]LogD3D11RHI:       0/0/6084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.02-23.31.21:604][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.02-23.31.21:612][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.02-23.31.21:612][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2017.12.02-23.31.21:612][  0]LogWindows: EnumDisplayDevices:
+[2017.12.02-23.31.21:612][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2017.12.02-23.31.21:612][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.12.02-23.31.21:613][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.12.02-23.31.21:613][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.02-23.31.21:613][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2017.12.02-23.31.21:613][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.02-23.31.21:613][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.02-23.31.21:613][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2017.12.02-23.31.21:655][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.02-23.31.21:668][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 0)
+[2017.12.02-23.31.21:669][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Intermediate/Shaders/WorkingDirectory/11028/).
+[2017.12.02-23.31.21:669][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gustm/AppData/Local/Temp/UnrealShaderWorkingDir/B1B8D9AE42C7B1D5BB20A58B420B77AF/'.
+[2017.12.02-23.31.21:669][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.02-23.31.23:621][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.02-23.31.23:676][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.02-23.31.23:732][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.02-23.31.23:790][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.02-23.31.23:848][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.02-23.31.23:915][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.02-23.31.23:995][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.02-23.31.24:056][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.02-23.31.24:105][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.02-23.31.24:159][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.02-23.31.24:215][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.02-23.31.24:271][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.02-23.31.24:340][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.02-23.31.24:405][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.02-23.31.24:517][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.02-23.31.24:517][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.02-23.31.24:588][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.02-23.31.24:645][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.02-23.31.24:746][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.02-23.31.24:788][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.02-23.31.24:842][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.02-23.31.24:895][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.02-23.31.24:951][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.02-23.31.25:006][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.02-23.31.25:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.02-23.31.25:558][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.02-23.31.25:638][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/gustm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-23.31.25:638][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gustm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.02-23.31.25:638][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.02-23.31.25:638][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.02-23.31.25:638][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.02-23.31.25:638][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.02-23.31.25:652][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.02-23.31.25:666][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gustm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.02-23.31.25:676][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.02-23.31.25:676][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.02-23.31.25:677][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-23.31.25:677][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-23.31.26:032][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-23.31.26:399][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.02-23.31.26:450][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.02-23.31.26:450][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.02-23.31.26:450][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.02-23.31.26:450][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.02-23.31.26:450][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.02-23.31.26:482][  0]LogNetVersion: GameJam_RecnPlay2017 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3713632617)
+[2017.12.02-23.31.26:669][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2017.12.02-23.31.27:291][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.094741 seconds
+[2017.12.02-23.31.27:297][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.02-23.31.27:297][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.02-23.31.27:297][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.02-23.31.27:358][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.02-23.31.31:080][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.02-23.31.31:143][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.02-23.31.31:804][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter'
+[2017.12.02-23.31.31:804][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter'
+[2017.12.02-23.31.31:804][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2017.12.02-23.31.31:804][  0]Error: CDO Constructor (GameJam_RecnPlay2017GameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
 
-[2017.12.02-23.04.24:727][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
-[2017.12.02-23.04.24:727][  0]LogUObjectBase: Warning: Error: CDO Constructor (GameJam_RecnPlay2017GameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2017.12.02-23.31.31:804][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2017.12.02-23.31.31:804][  0]LogUObjectBase: Warning: Error: CDO Constructor (GameJam_RecnPlay2017GameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
 
-[2017.12.02-23.04.24:733][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.02-23.04.24:733][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.02-23.06.22:890][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.02-23.06.22:890][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.02-23.06.22:891][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.02-23.06.22:891][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.02-23.06.23:184][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.12.02-23.06.23:658][  0]SourceControl: Source control is disabled
-[2017.12.02-23.06.23:658][  0]SourceControl: Source control is disabled
-[2017.12.02-23.06.23:721][  0]SourceControl: Source control is disabled
-[2017.12.02-23.06.23:783][  0]SourceControl: Source control is disabled
-[2017.12.02-23.06.24:796][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.12.02-23.06.25:170][  0]LogOcInput: OculusInput pre-init called
-[2017.12.02-23.06.25:519][  0]LogEngine: Initializing Engine...
-[2017.12.02-23.06.25:522][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.12.02-23.06.25:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.12.02-23.06.25:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.12.02-23.06.25:912][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.12.02-23.06.25:919][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.06.26:309][  0]LogInit: FAudioDevice initialized.
-[2017.12.02-23.06.26:449][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/gustm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.02-23.06.26:468][  0]LogInit: Texture streaming: Enabled
-[2017.12.02-23.06.26:573][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.12.02-23.06.26:718][  0]LogInit: Transaction tracking system initialized
-[2017.12.02-23.06.27:059][  0]BlueprintLog: New page: Editor Load
-[2017.12.02-23.06.28:042][  0]LocalizationService: Localization service is disabled
-[2017.12.02-23.06.28:901][  0]LogConsoleResponse: Display: 
-[2017.12.02-23.06.29:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.12.02-23.06.29:109][  0]LogCook: Display: Mobile HDR setting 1
-[2017.12.02-23.06.29:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.12.02-23.06.30:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/' took 0.01s
-[2017.12.02-23.06.30:476][  0]SourceControl: Source control is disabled
-[2017.12.02-23.06.30:476][  0]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.02-23.06.30:476][  0]LightingResults: New page: Lighting Build
-[2017.12.02-23.06.30:522][  0]MapCheck: New page: Map Check
-[2017.12.02-23.06.30:522][  0]LightingResults: New page: Lighting Build
-[2017.12.02-23.06.30:868][  0]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.06.30:878][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.12.02-23.06.30:889][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.02-23.06.30:962][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.325ms to complete.
-[2017.12.02-23.06.30:962][  0]LogFileHelpers: Loading map 'LearningLevel' took 0.486
-[2017.12.02-23.06.31:098][  0]LogCollectionManager: Loaded 0 collections in 0.002007 seconds
-[2017.12.02-23.06.31:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Collections/' took 0.01s
-[2017.12.02-23.06.31:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Developers/gustm/Collections/' took 0.01s
-[2017.12.02-23.06.31:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Collections/' took 0.01s
-[2017.12.02-23.06.31:186][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2017.12.02-23.06.31:194][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2366 classes and 523 folders.
-[2017.12.02-23.06.31:268][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2017.12.02-23.06.31:324][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2017.12.02-23.06.31:376][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.02-23.06.31:379][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.12.02-23.06.31:384][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.12.02-23.06.31:385][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2017.12.02-23.06.31:513][  0]LogRenderer: Reallocating scene render targets to support 892x464 Format 9 NumSamples 1 (Frame:1).
-[2017.12.02-23.06.31:798][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
-[2017.12.02-23.06.31:799][  0]LogLoad: (Engine Initialization) Total time: 218.33 seconds
-[2017.12.02-23.06.31:799][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.12.02-23.06.31:799][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.12.02-23.06.31:799][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.12.02-23.06.31:850][  0]LogAssetRegistry: Asset discovery search completed in 137.0981 seconds
-[2017.12.02-23.06.31:852][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2017.12.02-23.06.31:852][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000161 seconds (updated 0 objects)
-[2017.12.02-23.06.31:853][  0]LogContentStreaming: Texture pool size now 800 MB
-[2017.12.02-23.06.31:870][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/' took 0.05s
-[2017.12.02-23.06.49:308][977]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.02-23.06.56:507][331]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.02-23.06.56:832][331]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 116 classes and 0 folders.
-[2017.12.02-23.06.57:391][331]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.02-23.06.57:671][331]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2017.12.02-23.06.57:761][332]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.12.02-23.07.09:032][879]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.07.09:077][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.07.09:078][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.07.09:078][879]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:07:09 PM)
-[2017.12.02-23.07.09:079][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.07.09:109][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030348s)
-[2017.12.02-23.07.09:111][879]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.07.09:111][879]LogPlayLevel: PIE: World Init took: (0.001573s)
-[2017.12.02-23.07.09:111][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.032744s)
-[2017.12.02-23.07.09:139][879]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.07.09:165][879]LogInit: FAudioDevice initialized.
-[2017.12.02-23.07.09:207][879]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.07.09:209][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.07.09
-[2017.12.02-23.07.09:210][879]LogWorld: Bringing up level for play took: 0.002044
-[2017.12.02-23.07.09:257][879]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
-[2017.12.02-23.07.09:258][879]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.091
-[2017.12.02-23.07.09:259][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.07.11:034][974]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.07.12:035][ 34]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.07.13:036][ 94]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.07.17:036][334]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.07.20:003][512]LogBlueprintUserMessages: [Enemy_BP_C_4] 1
-[2017.12.02-23.07.21:036][574]LogBlueprintUserMessages: [Enemy_BP_C_5] 2
-[2017.12.02-23.07.22:038][634]LogBlueprintUserMessages: [Enemy_BP_C_6] 3
-[2017.12.02-23.07.23:236][706]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.07.23:236][706]LogBlueprintUserMessages: [Enemy_BP_C_5] 3
-[2017.12.02-23.07.23:237][706]LogBlueprintUserMessages: [Enemy_BP_C_6] 3
-[2017.12.02-23.07.28:036][994]LogBlueprintUserMessages: [Enemy_BP_C_7] 3
-[2017.12.02-23.07.30:203][124]LogBlueprintUserMessages: [Enemy_BP_C_5] 3
-[2017.12.02-23.07.30:203][124]LogBlueprintUserMessages: [Enemy_BP_C_6] 3
-[2017.12.02-23.07.30:203][124]LogBlueprintUserMessages: [Enemy_BP_C_7] 3
-[2017.12.02-23.07.35:037][414]LogBlueprintUserMessages: [Enemy_BP_C_8] 1
-[2017.12.02-23.07.35:336][432]LogBlueprintUserMessages: [Enemy_BP_C_8] 1
-[2017.12.02-23.07.36:037][474]LogBlueprintUserMessages: [Enemy_BP_C_9] 2
-[2017.12.02-23.07.37:036][534]LogBlueprintUserMessages: [Enemy_BP_C_10] 3
-[2017.12.02-23.07.40:920][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.07.40:960][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.01:808][ 14]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.08.01:825][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.01:826][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.08.01:826][ 14]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:08:01 PM)
-[2017.12.02-23.08.01:826][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.08.01:846][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019763s)
-[2017.12.02-23.08.01:847][ 14]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.08.01:847][ 14]LogPlayLevel: PIE: World Init took: (0.001077s)
-[2017.12.02-23.08.01:847][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.021561s)
-[2017.12.02-23.08.01:871][ 14]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.08.01:898][ 14]LogInit: FAudioDevice initialized.
-[2017.12.02-23.08.01:932][ 14]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.08.01:933][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.08.01
-[2017.12.02-23.08.01:934][ 14]LogWorld: Bringing up level for play took: 0.001642
-[2017.12.02-23.08.01:935][ 14]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.768
-[2017.12.02-23.08.01:935][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.03:810][125]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.08.04:809][185]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.08.05:811][245]LogBlueprintUserMessages: [Enemy_BP_C_2] 2
-[2017.12.02-23.08.06:811][305]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.08.10:814][545]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.08.12:816][665]LogBlueprintUserMessages: [Enemy_BP_C_5] 3
-[2017.12.02-23.08.14:349][757]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.08.14:349][757]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.08.14:349][757]LogBlueprintUserMessages: [Enemy_BP_C_5] 3
-[2017.12.02-23.08.19:782][ 83]LogBlueprintUserMessages: [Enemy_BP_C_6] 1
-[2017.12.02-23.08.20:816][145]LogBlueprintUserMessages: [Enemy_BP_C_7] 2
-[2017.12.02-23.08.21:417][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.21:458][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.21:805][201]Cmd: SELECT NONE
-[2017.12.02-23.08.55:775][235]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.08.55:797][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.55:797][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.08.55:798][235]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:08:55 PM)
-[2017.12.02-23.08.55:798][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.08.55:819][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020612s)
-[2017.12.02-23.08.55:820][235]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.08.55:820][235]LogPlayLevel: PIE: World Init took: (0.001233s)
-[2017.12.02-23.08.55:820][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.022631s)
-[2017.12.02-23.08.55:844][235]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.08.55:871][235]LogInit: FAudioDevice initialized.
-[2017.12.02-23.08.55:904][235]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.08.55:905][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.08.55
-[2017.12.02-23.08.55:906][235]LogWorld: Bringing up level for play took: 0.001739
-[2017.12.02-23.08.55:907][235]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.74
-[2017.12.02-23.08.55:908][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.08.57:781][346]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.08.58:781][406]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.08.59:780][466]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.09.02:514][630]LogBlueprintUserMessages: [Enemy_BP_C_3] 2
-[2017.12.02-23.09.03:781][706]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.09.03:863][711]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.09.03:864][711]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.09.03:864][711]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.09.07:790][946]LogBlueprintUserMessages: [Enemy_BP_C_5] 3
-[2017.12.02-23.09.10:273][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.09.10:313][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.22:128][346]BlueprintLog: New page: Compile Enemy_BP
-[2017.12.02-23.10.24:219][413]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.10.24:236][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.24:237][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.10.24:237][413]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:10:24 PM)
-[2017.12.02-23.10.24:237][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.10.24:258][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021280s)
-[2017.12.02-23.10.24:259][413]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.10.24:260][413]LogPlayLevel: PIE: World Init took: (0.001275s)
-[2017.12.02-23.10.24:260][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.023229s)
-[2017.12.02-23.10.24:285][413]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.10.24:312][413]LogInit: FAudioDevice initialized.
-[2017.12.02-23.10.24:347][413]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.10.24:349][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.10.24
-[2017.12.02-23.10.24:350][413]LogWorld: Bringing up level for play took: 0.001716
-[2017.12.02-23.10.24:351][413]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.817
-[2017.12.02-23.10.24:351][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.26:226][524]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.10.27:227][584]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.10.28:226][644]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
-	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel:PersistentLevel.RecnPlay_GameMode_BP_C_0
+[2017.12.02-23.31.39:684][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-23.31.39:684][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-23.31.40:010][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-23.31.40:526][  0]SourceControl: Source control is disabled
+[2017.12.02-23.31.40:526][  0]SourceControl: Source control is disabled
+[2017.12.02-23.31.40:605][  0]SourceControl: Source control is disabled
+[2017.12.02-23.31.40:688][  0]SourceControl: Source control is disabled
+[2017.12.02-23.31.41:747][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.02-23.31.42:121][  0]LogOcInput: OculusInput pre-init called
+[2017.12.02-23.31.42:436][  0]LogEngine: Initializing Engine...
+[2017.12.02-23.31.42:438][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.02-23.31.42:654][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.02-23.31.42:654][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.02-23.31.42:793][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.02-23.31.42:800][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.31.43:040][  0]LogInit: FAudioDevice initialized.
+[2017.12.02-23.31.43:192][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/gustm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-23.31.43:201][  0]LogInit: Texture streaming: Enabled
+[2017.12.02-23.31.43:316][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.02-23.31.43:466][  0]LogInit: Transaction tracking system initialized
+[2017.12.02-23.31.43:809][  0]BlueprintLog: New page: Editor Load
+[2017.12.02-23.31.44:784][  0]LocalizationService: Localization service is disabled
+[2017.12.02-23.31.45:612][  0]LogConsoleResponse: Display: 
+[2017.12.02-23.31.45:818][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.02-23.31.45:819][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.02-23.31.45:819][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.02-23.31.45:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/' took 0.01s
+[2017.12.02-23.31.47:180][  0]SourceControl: Source control is disabled
+[2017.12.02-23.31.47:180][  0]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.31.47:181][  0]LightingResults: New page: Lighting Build
+[2017.12.02-23.31.47:226][  0]MapCheck: New page: Map Check
+[2017.12.02-23.31.47:226][  0]LightingResults: New page: Lighting Build
+[2017.12.02-23.31.47:579][  0]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.31.47:588][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.31.47:601][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.31.47:672][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.214ms to complete.
+[2017.12.02-23.31.47:672][  0]LogFileHelpers: Loading map 'LearningLevel' took 0.492
+[2017.12.02-23.31.47:720][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-23.31.47:721][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-23.31.47:809][  0]LogCollectionManager: Loaded 0 collections in 0.002215 seconds
+[2017.12.02-23.31.47:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Collections/' took 0.01s
+[2017.12.02-23.31.47:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Developers/gustm/Collections/' took 0.01s
+[2017.12.02-23.31.47:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Collections/' took 0.01s
+[2017.12.02-23.31.47:898][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.02-23.31.47:906][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2366 classes and 523 folders.
+[2017.12.02-23.31.47:976][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.02-23.31.48:030][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.02-23.31.48:122][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-23.31.48:125][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.02-23.31.48:125][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.02-23.31.48:130][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.12.02-23.31.48:249][  0]LogRenderer: Reallocating scene render targets to support 892x464 Format 9 NumSamples 1 (Frame:1).
+[2017.12.02-23.31.48:455][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.12.02-23.31.48:455][  0]LogLoad: (Engine Initialization) Total time: 32.60 seconds
+[2017.12.02-23.31.48:455][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.02-23.31.48:455][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.02-23.31.48:455][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.02-23.31.48:496][  0]LogContentStreaming: Texture pool size now 800 MB
+[2017.12.02-23.31.48:507][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-23.31.48:530][  1]LogAssetRegistry: Asset discovery search completed in 21.8840 seconds
+[2017.12.02-23.31.48:532][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.02-23.31.48:533][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000191 seconds (updated 0 objects)
+[2017.12.02-23.31.49:483][ 34]LogSlate: Took 0.000861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-23.31.52:527][213]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-23.31.52:844][213]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2017.12.02-23.31.53:960][213]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.02-23.31.55:614][260]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.02-23.32.04:335][730]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.12.02-23.32.04:734][730]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.12.02-23.32.04:734][730]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.12.02-23.32.04:734][730]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.12.02-23.32.04:742][730]LogAIModule: Creating AISystem for world Nivel_1
+[2017.12.02-23.32.04:783][730]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.32.04:783][730]LightingResults: New page: Lighting Build
+[2017.12.02-23.32.04:784][730]LoadErrors: New page: Loading map: Nivel_1.umap
+[2017.12.02-23.32.04:785][730]MapCheck: New page: Map Check
+[2017.12.02-23.32.04:785][730]LightingResults: New page: Lighting Build
+[2017.12.02-23.32.04:811][730]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.32.04:850][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.32.04:929][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.281ms to complete.
+[2017.12.02-23.32.04:929][730]LogFileHelpers: Loading map 'Nivel_1' took 0.146
+[2017.12.02-23.32.06:837][832]MapCheck: New page: Map Check
+[2017.12.02-23.32.06:852][832]LightingResults: New page: Lighting Build - Dec 2, 2017, 5:32:06 PM
+[2017.12.02-23.32.06:893][832]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.12.02-23.32.06:979][832]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.12.02-23.32.06:987][832]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.12.02-23.32.07:496][832]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.12.02-23.32.07:496][832]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11028
+[2017.12.02-23.32.11:029][832]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.12.02-23.32.11:030][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.12.02-23.32.11:033][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.12.02-23.32.11:033][832]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.12.02-23.32.11:034][832]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.12.02-23.32.11:034][832]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.12.02-23.32.11:335][832]LogEditorBuildUtils: Build time 0:04
+[2017.12.02-23.32.14:986][844]Job is a success!
+[2017.12.02-23.32.15:421][845]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2017.12.02-23.32.15:421][845]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.12.02-23.32.15:421][845]LogVolumetricLightmapImport:      BrickData 55x5x5 = 0.0Mb
+[2017.12.02-23.32.15:421][845]LogVolumetricLightmapImport:      Bricks at Level
+[2017.12.02-23.32.15:421][845]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2017.12.02-23.32.15:422][845]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2017.12.02-23.32.15:422][845]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2017.12.02-23.32.16:099][845]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.12.02-23.32.16:099][845]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.12.02-23.32.16:099][845]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.12.02-23.32.16:099][845]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.12.02-23.32.16:186][845]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X256)
+[2017.12.02-23.32.16:186][845]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.12.02-23.32.16:211][845]Lightmass on DESKTOP-EMBOHVS: 3.65 sec total, 114 ms importing, 7 ms setup, 354 ms photons, 3.15 sec processing, 0 ms extra exporting [41/41 mappings]. Threads: 12.5 sec total, 4.62 sec processing.
+[2017.12.02-23.32.16:251][845]LogStaticLightingSystem: Illumination: 9.04 sec (628 ms encoding lightmaps, 82 ms encoding shadowmaps)
+[2017.12.02-23.32.16:251][845]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.12.02-23.32.16:252][845]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.12.02-23.32.17:023][845]DumpUnbuiltLightIteractions
+[2017.12.02-23.32.17:024][845]Lights with unbuilt interactions: 0
+[2017.12.02-23.32.17:024][845]
+[2017.12.02-23.32.17:024][845]Primitives with unbuilt interactions: 0
+[2017.12.02-23.32.17:033][846]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.12.02-23.32.17:033][846]MapCheck: New page: Nivel_1 - Dec 2, 2017, 5:32:17 PM
+[2017.12.02-23.32.17:133][846]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.444ms to complete.
+[2017.12.02-23.32.45:227][  1]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.32.45:344][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.32.45:344][  1]PIE: New page: PIE session: Nivel_1 (Dec 2, 2017, 5:32:45 PM)
+[2017.12.02-23.32.45:345][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Nivel_1
+[2017.12.02-23.32.45:349][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004556s)
+[2017.12.02-23.32.45:350][  1]LogAIModule: Creating AISystem for world Nivel_1
+[2017.12.02-23.32.45:350][  1]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2017.12.02-23.32.45:351][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Nivel_1.Nivel_1 to /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 (0.006532s)
+[2017.12.02-23.32.45:371][  1]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.32.45:398][  1]LogInit: FAudioDevice initialized.
+[2017.12.02-23.32.45:443][  1]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.32.45:445][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 60) at 2017.12.02-20.32.45
+[2017.12.02-23.32.45:445][  1]LogWorld: Bringing up level for play took: 0.001552
+[2017.12.02-23.32.45:494][  1]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.12.02-23.32.45:495][  1]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.32.45:496][  1]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Nivel_1 0.328
+[2017.12.02-23.32.47:320][ 91]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:01EE
+[2017.12.02-23.32.47:320][ 91]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.32.47:321][ 91]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2017.12.02-23.32.47:321][ 91]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0284
+[2017.12.02-23.32.47:321][ 91]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.32.47:322][ 91]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:02CE
+[2017.12.02-23.32.47:322][ 91]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Chase Actor in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.12.02-23.32.48:322][151]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:01EE
+[2017.12.02-23.32.48:322][151]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.32.48:322][151]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2017.12.02-23.32.48:322][151]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0284
+[2017.12.02-23.32.48:323][151]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.32.48:323][151]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:02CE
+[2017.12.02-23.32.48:323][151]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Chase Actor in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.12.02-23.32.49:321][211]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:01EE
+[2017.12.02-23.32.49:321][211]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.32.49:322][211]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2017.12.02-23.32.49:322][211]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0284
+[2017.12.02-23.32.49:322][211]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.32.49:323][211]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:02CE
+[2017.12.02-23.32.49:323][211]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Chase Actor in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.12.02-23.32.56:210][588]LogSavePackage: Save=171.86ms
+[2017.12.02-23.32.56:210][588]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_1C08646DF433CD7795900868424535EB9.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap'
+[2017.12.02-23.32.56:217][588]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap
+[2017.12.02-23.32.56:236][588]LogFileHelpers: Saving map 'Nivel_1' took 0.307
+[2017.12.02-23.32.56:423][588]LogSavePackage: Save=171.30ms
+[2017.12.02-23.32.56:423][588]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_1_BuiltData51E727D9410271B059A5FE9D50229DF5.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1_BuiltData.uasset'
+[2017.12.02-23.32.56:431][588]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1_BuiltData.uasset
+[2017.12.02-23.33.23:874][ 97]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.12.02-23.33.24:480][131]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.12.02-23.33.28:303][357]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.02-23.33.29:452][391]LogSavePackage: Save=173.38ms
+[2017.12.02-23.33.29:453][391]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_13CCE9C25492BDBBB4DEB3CB6186AFECB.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap'
+[2017.12.02-23.33.29:461][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap
+[2017.12.02-23.33.29:484][391]LogFileHelpers: Saving map 'Nivel_1' took 0.318
+[2017.12.02-23.33.31:532][506]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.33.31:550][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.33.31:550][506]PIE: New page: PIE session: Nivel_1 (Dec 2, 2017, 5:33:31 PM)
+[2017.12.02-23.33.31:550][506]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Nivel_1
+[2017.12.02-23.33.31:573][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021813s)
+[2017.12.02-23.33.31:573][506]LogAIModule: Creating AISystem for world Nivel_1
+[2017.12.02-23.33.31:574][506]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2017.12.02-23.33.31:574][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Nivel_1.Nivel_1 to /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 (0.023595s)
+[2017.12.02-23.33.31:597][506]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.33.31:623][506]LogInit: FAudioDevice initialized.
+[2017.12.02-23.33.31:658][506]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.33.31:660][506]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 60) at 2017.12.02-20.33.31
+[2017.12.02-23.33.31:660][506]LogWorld: Bringing up level for play took: 0.001526
+[2017.12.02-23.33.31:662][506]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.33.31:662][506]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Nivel_1 0.494
+[2017.12.02-23.33.33:544][616]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.33.34:554][675]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.33.36:538][794]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
+[2017.12.02-23.34.08:819][104]LogRenderer: Reallocating scene render targets to support 1048x540 Format 9 NumSamples 1 (Frame:1).
+[2017.12.02-23.34.30:151][275]BlueprintLog: New page: Compile Player_BP
+[2017.12.02-23.34.35:973][601]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.34.35:995][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.34.35:995][601]PIE: New page: PIE session: Nivel_1 (Dec 2, 2017, 5:34:35 PM)
+[2017.12.02-23.34.35:995][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Nivel_1
+[2017.12.02-23.34.36:001][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005282s)
+[2017.12.02-23.34.36:002][601]LogAIModule: Creating AISystem for world Nivel_1
+[2017.12.02-23.34.36:002][601]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2017.12.02-23.34.36:003][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Nivel_1.Nivel_1 to /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 (0.007175s)
+[2017.12.02-23.34.36:024][601]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.34.36:051][601]LogInit: FAudioDevice initialized.
+[2017.12.02-23.34.36:084][601]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.34.36:086][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 60) at 2017.12.02-20.34.36
+[2017.12.02-23.34.36:086][601]LogWorld: Bringing up level for play took: 0.001485
+[2017.12.02-23.34.36:088][601]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.34.36:088][601]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Nivel_1 0.921
+[2017.12.02-23.34.37:983][713]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.34.38:983][773]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.34.39:985][833]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
 	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0336
-[2017.12.02-23.10.28:226][644]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
-[2017.12.02-23.10.28:227][644]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
-	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel:PersistentLevel.RecnPlay_GameMode_BP_C_0
+[2017.12.02-23.34.39:986][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+[2017.12.02-23.34.39:987][833]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
 	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0336
-[2017.12.02-23.10.28:227][644]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
-[2017.12.02-23.10.28:228][644]LogBlueprintUserMessages: [Enemy_BP_C_2] 2
-[2017.12.02-23.10.28:826][680]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
-	Enemy_BP_C /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel:PersistentLevel.Enemy_BP_C_1
-	Function /Game/Blueprints/Enemy_BP.Enemy_BP_C:ExecuteUbergraph_Enemy_BP:05FD
-[2017.12.02-23.10.28:827][680]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue from function: 'ExecuteUbergraph_Enemy_BP' from node: DestroyActor in graph: EventGraph in object: Enemy_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
-[2017.12.02-23.10.28:860][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.28:894][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.29:781][733]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.10.29:795][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.29:795][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.10.29:795][733]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:10:29 PM)
-[2017.12.02-23.10.29:796][733]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.10.29:813][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017088s)
-[2017.12.02-23.10.29:814][733]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.10.29:814][733]LogPlayLevel: PIE: World Init took: (0.001028s)
-[2017.12.02-23.10.29:814][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.018750s)
-[2017.12.02-23.10.29:841][733]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.10.29:867][733]LogInit: FAudioDevice initialized.
-[2017.12.02-23.10.29:899][733]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.10.29:901][733]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.10.29
-[2017.12.02-23.10.29:901][733]LogWorld: Bringing up level for play took: 0.001690
-[2017.12.02-23.10.29:903][733]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.736
-[2017.12.02-23.10.29:903][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.31:796][845]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.10.32:796][905]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.10.33:795][965]LogBlueprintUserMessages: [Enemy_BP_C_0] 2
-[2017.12.02-23.10.33:796][965]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.10.33:796][965]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.10.35:896][ 91]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.10.35:896][ 91]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.10.35:896][ 91]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.10.37:796][205]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.10.42:796][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.42:835][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.10.50:251][905]LogSavePackage: Save=505.12ms
-[2017.12.02-23.10.50:251][905]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevel5FA82E3C4D9E79650B8C27B81814853E.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
-[2017.12.02-23.10.50:259][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
-[2017.12.02-23.10.50:270][905]LogFileHelpers: Saving map 'LearningLevel' took 0.637
-[2017.12.02-23.10.50:333][905]LogSavePackage: Save=44.12ms
-[2017.12.02-23.10.50:333][905]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Friend_BP51A9FF384079AA2D95CE0EB117F9ADBC.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Friend_BP.uasset'
-[2017.12.02-23.10.50:340][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Friend_BP.uasset
-[2017.12.02-23.10.50:346][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset" SILENT=true
-[2017.12.02-23.10.50:419][905]LogSavePackage: Save=65.84ms
-[2017.12.02-23.10.50:419][905]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Enemy_BP3E2A93D04728DD962C95FB85E832ECCD.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset'
-[2017.12.02-23.10.50:426][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset
-[2017.12.02-23.11.01:022][537]BlueprintLog: New page: Compile Enemy_BP
-[2017.12.02-23.11.02:654][543]LogSavePackage: Save=451.73ms
-[2017.12.02-23.11.02:654][543]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevel93A264574712EAA04FF1C1802816187E.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
-[2017.12.02-23.11.02:661][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
-[2017.12.02-23.11.02:671][543]LogFileHelpers: Saving map 'LearningLevel' took 0.569
-[2017.12.02-23.11.02:675][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset" SILENT=true
-[2017.12.02-23.11.02:745][543]LogSavePackage: Save=65.64ms
-[2017.12.02-23.11.02:745][543]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Enemy_BPB8DEAC934F7955E806C770A160341940.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset'
-[2017.12.02-23.11.02:753][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset
-[2017.12.02-23.11.04:383][636]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.11.04:400][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.04:401][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.11.04:401][636]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:11:04 PM)
-[2017.12.02-23.11.04:401][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.11.04:417][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015927s)
-[2017.12.02-23.11.04:418][636]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.11.04:418][636]LogPlayLevel: PIE: World Init took: (0.001107s)
-[2017.12.02-23.11.04:419][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017689s)
-[2017.12.02-23.11.04:440][636]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.11.04:466][636]LogInit: FAudioDevice initialized.
-[2017.12.02-23.11.04:497][636]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.11.04:498][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.11.04
-[2017.12.02-23.11.04:499][636]LogWorld: Bringing up level for play took: 0.001748
-[2017.12.02-23.11.04:500][636]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.667
-[2017.12.02-23.11.04:501][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.06:392][748]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.11.07:394][808]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.11.08:395][868]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.11.09:361][926]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.09:361][926]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.09:361][926]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.11.10:395][988]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.11.11:313][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.11:351][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.12:251][ 95]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.02-23.11.12:267][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.12:268][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.02-23.11.12:268][ 95]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:11:12 PM)
-[2017.12.02-23.11.12:269][ 95]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
-[2017.12.02-23.11.12:286][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017589s)
-[2017.12.02-23.11.12:287][ 95]LogAIModule: Creating AISystem for world LearningLevel
-[2017.12.02-23.11.12:287][ 95]LogPlayLevel: PIE: World Init took: (0.000946s)
-[2017.12.02-23.11.12:288][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.019304s)
-[2017.12.02-23.11.12:316][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.02-23.11.12:342][ 95]LogInit: FAudioDevice initialized.
-[2017.12.02-23.11.12:374][ 95]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
-[2017.12.02-23.11.12:375][ 95]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.11.12
-[2017.12.02-23.11.12:376][ 95]LogWorld: Bringing up level for play took: 0.001659
-[2017.12.02-23.11.12:377][ 95]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.79
-[2017.12.02-23.11.12:377][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.14:253][206]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
-[2017.12.02-23.11.15:253][266]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
-[2017.12.02-23.11.16:253][326]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.11.16:402][335]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.16:403][335]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.16:403][335]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.11.23:169][741]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.23:170][741]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.23:170][741]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
-[2017.12.02-23.11.24:253][806]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.11.28:986][ 90]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.28:986][ 90]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.28:987][ 90]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.11.29:236][105]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.29:237][105]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.29:237][105]LogBlueprintUserMessages: [Enemy_BP_C_3] 3
-[2017.12.02-23.11.30:253][166]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.11.34:438][417]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.34:438][417]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.34:438][417]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.11.35:723][494]LogBlueprintUserMessages: [Enemy_BP_C_0] 3
-[2017.12.02-23.11.35:723][494]LogBlueprintUserMessages: [Enemy_BP_C_1] 3
-[2017.12.02-23.11.35:724][494]LogBlueprintUserMessages: [Enemy_BP_C_4] 3
-[2017.12.02-23.11.37:257][586]LogBlueprintUserMessages: [Enemy_BP_C_5] 3
-[2017.12.02-23.11.39:473][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
-[2017.12.02-23.11.39:510][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.34.39:989][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+[2017.12.02-23.34.39:990][833]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0336
+[2017.12.02-23.34.39:992][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+[2017.12.02-23.34.39:992][833]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0336
+[2017.12.02-23.34.39:993][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+[2017.12.02-23.34.39:994][833]LogBlueprintUserMessages: [Enemy_BP_C_2] 2
+[2017.12.02-23.34.43:261][ 17]LogSavePackage: Save=27.82ms
+[2017.12.02-23.34.43:261][ 17]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Player_BP146E1FDE4242C4316FC9A2A0819CA890.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Player_BP.uasset'
+[2017.12.02-23.34.43:269][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Player_BP.uasset
+[2017.12.02-23.35.10:657][632]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.35.10:690][632]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.35.10:691][632]LightingResults: New page: Lighting Build
+[2017.12.02-23.35.10:691][632]LoadErrors: New page: Loading map: LearningLevel.umap
+[2017.12.02-23.35.10:692][632]MapCheck: New page: Map Check
+[2017.12.02-23.35.10:692][632]LightingResults: New page: Lighting Build
+[2017.12.02-23.35.10:722][632]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.35.10:758][632]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.35.10:844][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.589ms to complete.
+[2017.12.02-23.35.10:844][632]LogFileHelpers: Loading map 'LearningLevel' took 0.155
+[2017.12.02-23.35.15:649][895]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0014 seconds. Added 2 classes and 3 folders.
+[2017.12.02-23.36.45:851][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.02-23.36.46:463][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.02-23.36.46:941][848]LogEditorViewport: Clicking on Actor (LMB): Friend_BP_C (Friend_BP4)
+[2017.12.02-23.36.48:929][961]LogEditorViewport: Clicking on Actor (context menu): Friend_BP_C (Friend_BP4)
+[2017.12.02-23.38.57:724][553]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.12.02-23.38.57:724][553]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.12.02-23.38.57:724][553]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.12.02-23.38.57:724][553]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.12.02-23.38.57:727][553]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.39.16:430][645]BlueprintLog: New page: Compile ExitLevel_BP
+[2017.12.02-23.39.18:627][748]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.39.18:674][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.18:675][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.39.18:675][748]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:39:18 PM)
+[2017.12.02-23.39.18:675][748]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.39.18:717][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041664s)
+[2017.12.02-23.39.18:718][748]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.39.18:718][748]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2017.12.02-23.39.18:719][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.043631s)
+[2017.12.02-23.39.18:755][748]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.39.19:002][748]LogInit: FAudioDevice initialized.
+[2017.12.02-23.39.19:050][748]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.39.19:056][748]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.39.19
+[2017.12.02-23.39.19:060][748]LogWorld: Bringing up level for play took: 0.007913
+[2017.12.02-23.39.19:066][748]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.39.19:067][748]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.101
+[2017.12.02-23.39.19:068][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.20:334][811]LogBlueprintUserMessages: [ExitLevel_BP_226] Victory!
+[2017.12.02-23.39.20:358][812]LogNet: Browse: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.39.20:372][812]LogLoad: LoadMap: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.39.20:407][812]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Nivel_0_Tutorial
+[2017.12.02-23.39.20:411][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004347s)
+[2017.12.02-23.39.20:412][812]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.39.20:412][812]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2017.12.02-23.39.20:413][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Nivel_0_Tutorial.Nivel_0_Tutorial to /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial (0.005895s)
+[2017.12.02-23.39.20:413][812]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.39.20:414][812]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial up for play (max tick rate 60) at 2017.12.02-20.39.20
+[2017.12.02-23.39.20:415][812]LogWorld: Bringing up level for play took: 0.001115
+[2017.12.02-23.39.20:416][812]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.39.20:454][812]LogLoad: Took 0.082034 seconds to LoadMap(/Game/Maps/UEDPIE_0_Nivel_0_Tutorial)
+[2017.12.02-23.39.22:361][926]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:01EE
+[2017.12.02-23.39.22:362][926]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.39.22:362][926]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2017.12.02-23.39.22:362][926]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:0284
+[2017.12.02-23.39.22:363][926]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.39.22:363][926]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:02CE
+[2017.12.02-23.39.22:363][926]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Chase Actor in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.12.02-23.39.23:361][986]LogScript: Warning: Attempted to access index -1 from array SpawnPoints of length 0!
+	RecnPlay_GameMode_BP_C /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial:PersistentLevel.RecnPlay_GameMode_BP_C_0
+	Function /Game/Blueprints/RecnPlay_GameMode_BP.RecnPlay_GameMode_BP_C:ExecuteUbergraph_RecnPlay_GameMode_BP:01EE
+[2017.12.02-23.39.23:362][986]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.39.23:362][986]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2017.12.02-23.39.23:362][986]PIE: Error: Blueprint Runtime Error: Attempted to access index -1 from array SpawnPoints of length 0! from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: SpawnActor Enemy BP in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Attempted to access index -1 from array SpawnPoints of length 0!
+[2017.12.02-23.39.23:363][986]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Chase Actor in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.12.02-23.39.24:112][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.24:149][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.24:940][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.39.24:966][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.24:967][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.39.24:967][ 76]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:39:24 PM)
+[2017.12.02-23.39.24:967][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.39.24:988][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020249s)
+[2017.12.02-23.39.24:989][ 76]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.39.24:989][ 76]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2017.12.02-23.39.24:990][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.022268s)
+[2017.12.02-23.39.25:020][ 76]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.39.25:047][ 76]LogInit: FAudioDevice initialized.
+[2017.12.02-23.39.25:082][ 76]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.39.25:083][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.39.25
+[2017.12.02-23.39.25:084][ 76]LogWorld: Bringing up level for play took: 0.001839
+[2017.12.02-23.39.25:086][ 76]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.39.25:086][ 76]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.082
+[2017.12.02-23.39.25:086][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.26:864][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.26:905][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.32:225][411]LogSavePackage: Save=35.08ms
+[2017.12.02-23.39.32:225][411]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/ExitLevel_BP40CB1D644A6D369E1268198D970BE23E.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/ExitLevel_BP.uasset'
+[2017.12.02-23.39.32:234][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/ExitLevel_BP.uasset
+[2017.12.02-23.39.32:537][411]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-23.39.32:984][411]LogSavePackage: Save=604.24ms
+[2017.12.02-23.39.32:985][411]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevelAF10778F4495AB0BD25EE1A610C2B887.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
+[2017.12.02-23.39.32:994][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
+[2017.12.02-23.39.33:011][411]LogFileHelpers: Saving map 'LearningLevel' took 0.776
+[2017.12.02-23.39.33:014][411]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.39.33:014][411]LightingResults: New page: Lighting Build
+[2017.12.02-23.39.33:015][411]LoadErrors: New page: Loading map: Nivel_0_Tutorial.umap
+[2017.12.02-23.39.33:016][411]MapCheck: New page: Map Check
+[2017.12.02-23.39.33:016][411]LightingResults: New page: Lighting Build
+[2017.12.02-23.39.33:051][411]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.39.33:097][411]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.39.33:198][411]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.364ms to complete.
+[2017.12.02-23.39.33:200][411]LogFileHelpers: Loading map 'Nivel_0_Tutorial' took 0.187
+[2017.12.02-23.39.46:819][151]LogSavePackage: Save=53.63ms
+[2017.12.02-23.39.46:819][151]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_0_Tutorial9D54BD6D4A94A437169E5EB1BD7AE741.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap'
+[2017.12.02-23.39.46:827][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap
+[2017.12.02-23.39.46:848][151]LogFileHelpers: Saving map 'Nivel_0_Tutorial' took 0.193
+[2017.12.02-23.39.51:713][406]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.39.51:746][406]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.39.51:747][406]LightingResults: New page: Lighting Build
+[2017.12.02-23.39.51:747][406]LoadErrors: New page: Loading map: LearningLevel.umap
+[2017.12.02-23.39.51:749][406]MapCheck: New page: Map Check
+[2017.12.02-23.39.51:749][406]LightingResults: New page: Lighting Build
+[2017.12.02-23.39.51:775][406]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.39.51:808][406]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.39.51:884][406]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.696ms to complete.
+[2017.12.02-23.39.51:884][406]LogFileHelpers: Loading map 'LearningLevel' took 0.139
+[2017.12.02-23.39.52:875][456]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.39.52:899][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.52:900][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.39.52:900][456]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:39:52 PM)
+[2017.12.02-23.39.52:900][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.39.52:923][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023374s)
+[2017.12.02-23.39.52:924][456]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.39.52:925][456]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2017.12.02-23.39.52:925][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.025125s)
+[2017.12.02-23.39.52:956][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.39.52:982][456]LogInit: FAudioDevice initialized.
+[2017.12.02-23.39.53:014][456]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.39.53:016][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.39.53
+[2017.12.02-23.39.53:017][456]LogWorld: Bringing up level for play took: 0.001721
+[2017.12.02-23.39.53:018][456]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.39.53:018][456]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.149
+[2017.12.02-23.39.53:019][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.54:028][515]LogBlueprintUserMessages: [ExitLevel_BP_226] Victory!
+[2017.12.02-23.39.54:045][516]LogNet: Browse: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.39.54:045][516]LogLoad: LoadMap: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.39.54:440][516]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.39.54:441][516]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.39.54:443][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial up for play (max tick rate 60) at 2017.12.02-20.39.54
+[2017.12.02-23.39.54:444][516]LogWorld: Bringing up level for play took: 0.002850
+[2017.12.02-23.39.54:446][516]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.39.54:446][516]LogLoad: Took 0.401071 seconds to LoadMap(/Game/Maps/Nivel_0_Tutorial)
+[2017.12.02-23.39.56:058][605]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.39.57:058][665]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.39.58:058][725]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
+[2017.12.02-23.39.58:725][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.39.58:761][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.40.00:712][874]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.40.00:740][874]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.40.00:740][874]LightingResults: New page: Lighting Build
+[2017.12.02-23.40.00:740][874]LoadErrors: New page: Loading map: Nivel_0_Tutorial.umap
+[2017.12.02-23.40.00:741][874]MapCheck: New page: Map Check
+[2017.12.02-23.40.00:741][874]LightingResults: New page: Lighting Build
+[2017.12.02-23.40.00:772][874]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.40.00:812][874]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.40.00:891][874]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.842ms to complete.
+[2017.12.02-23.40.00:891][874]LogFileHelpers: Loading map 'Nivel_0_Tutorial' took 0.152
+[2017.12.02-23.40.27:159][409]LogSavePackage: Save=55.53ms
+[2017.12.02-23.40.27:159][409]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_0_Tutorial0377E4CE49D1C9F769E43C968F50DDEE.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap'
+[2017.12.02-23.40.27:173][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap
+[2017.12.02-23.40.27:197][409]LogFileHelpers: Saving map 'Nivel_0_Tutorial' took 0.203
+[2017.12.02-23.40.33:449][766]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.40.33:487][766]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.40.33:487][766]LightingResults: New page: Lighting Build
+[2017.12.02-23.40.33:488][766]LoadErrors: New page: Loading map: LearningLevel.umap
+[2017.12.02-23.40.33:489][766]MapCheck: New page: Map Check
+[2017.12.02-23.40.33:489][766]LightingResults: New page: Lighting Build
+[2017.12.02-23.40.33:513][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.40.33:549][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.40.33:629][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.731ms to complete.
+[2017.12.02-23.40.33:629][766]LogFileHelpers: Loading map 'LearningLevel' took 0.143
+[2017.12.02-23.40.35:047][840]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.40.35:070][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.40.35:071][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.40.35:071][840]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:40:35 PM)
+[2017.12.02-23.40.35:071][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.40.35:096][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024755s)
+[2017.12.02-23.40.35:097][840]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.40.35:097][840]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2017.12.02-23.40.35:098][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.026590s)
+[2017.12.02-23.40.35:124][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.40.35:150][840]LogInit: FAudioDevice initialized.
+[2017.12.02-23.40.35:183][840]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.40.35:184][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.40.35
+[2017.12.02-23.40.35:185][840]LogWorld: Bringing up level for play took: 0.001712
+[2017.12.02-23.40.35:186][840]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.40.35:187][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.019
+[2017.12.02-23.40.35:187][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.40.37:049][950]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.40.37:598][983]LogBlueprintUserMessages: [ExitLevel_BP_226] Victory!
+[2017.12.02-23.40.37:615][984]LogNet: Browse: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.40.37:616][984]LogLoad: LoadMap: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.40.37:724][984]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.40.37:725][984]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.40.37:727][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial up for play (max tick rate 60) at 2017.12.02-20.40.37
+[2017.12.02-23.40.37:728][984]LogWorld: Bringing up level for play took: 0.002673
+[2017.12.02-23.40.37:729][984]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.40.37:729][984]LogLoad: Took 0.113815 seconds to LoadMap(/Game/Maps/Nivel_0_Tutorial)
+[2017.12.02-23.40.39:623][ 97]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.40.40:623][157]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.40.41:623][217]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
+[2017.12.02-23.40.44:773][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.40.44:808][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.17:623][393]BlueprintLog: New page: Compile Enemy_BP
+[2017.12.02-23.43.21:050][527]BlueprintLog: New page: Compile Enemy_BP
+[2017.12.02-23.43.27:536][792]LogSavePackage: Save=525.45ms
+[2017.12.02-23.43.27:536][792]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevel842B194C4F76E187189813A486030E64.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
+[2017.12.02-23.43.27:544][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
+[2017.12.02-23.43.27:564][792]LogFileHelpers: Saving map 'LearningLevel' took 0.667
+[2017.12.02-23.43.27:709][792]LogSavePackage: Save=84.31ms
+[2017.12.02-23.43.27:709][792]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/RecnPlay_GameMode_BPD24DC6814689B9B02F3CF8937572F428.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset'
+[2017.12.02-23.43.27:716][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset
+[2017.12.02-23.43.27:721][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2017.12.02-23.43.27:820][792]LogSavePackage: Save=88.81ms
+[2017.12.02-23.43.27:820][792]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Enemy_BP103EA97944F7B53476B1CF8D43857FFD.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset'
+[2017.12.02-23.43.27:827][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset
+[2017.12.02-23.43.28:369][818]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.43.28:401][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.28:402][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.43.28:402][818]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:43:28 PM)
+[2017.12.02-23.43.28:402][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.43.28:424][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021545s)
+[2017.12.02-23.43.28:425][818]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.43.28:426][818]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2017.12.02-23.43.28:426][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.023693s)
+[2017.12.02-23.43.28:463][818]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.43.28:500][818]LogInit: FAudioDevice initialized.
+[2017.12.02-23.43.28:533][818]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.43.28:535][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.43.28
+[2017.12.02-23.43.28:537][818]LogWorld: Bringing up level for play took: 0.002484
+[2017.12.02-23.43.28:538][818]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] 3
+[2017.12.02-23.43.28:539][818]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.629
+[2017.12.02-23.43.28:539][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.29:818][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.29:859][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.54:509][358]BlueprintLog: New page: Compile RecnPlay_GameMode_BP
+[2017.12.02-23.43.56:016][426]LogSavePackage: Save=72.28ms
+[2017.12.02-23.43.56:017][426]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/RecnPlay_GameMode_BP7732F5E4435B72CC76337FB6AF3154FA.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset'
+[2017.12.02-23.43.56:024][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset
+[2017.12.02-23.43.57:317][500]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.43.57:339][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.57:340][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.43.57:340][500]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:43:57 PM)
+[2017.12.02-23.43.57:341][500]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.43.57:359][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018446s)
+[2017.12.02-23.43.57:360][500]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.43.57:361][500]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2017.12.02-23.43.57:361][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.020448s)
+[2017.12.02-23.43.57:397][500]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.43.57:428][500]LogInit: FAudioDevice initialized.
+[2017.12.02-23.43.57:463][500]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.43.57:465][500]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.43.57
+[2017.12.02-23.43.57:465][500]LogWorld: Bringing up level for play took: 0.002146
+[2017.12.02-23.43.57:467][500]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.43.57:467][500]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.3
+[2017.12.02-23.43.57:468][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.43.59:330][609]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.44.00:338][669]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.44.00:771][694]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.44.00:771][694]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.44.00:804][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.44.00:825][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020529s)
+[2017.12.02-23.44.00:826][694]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.44.00:827][694]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2017.12.02-23.44.00:827][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.022507s)
+[2017.12.02-23.44.00:827][694]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.44.00:829][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.44.00
+[2017.12.02-23.44.00:831][694]LogWorld: Bringing up level for play took: 0.002824
+[2017.12.02-23.44.00:834][694]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.44.00:834][694]LogLoad: Took 0.063559 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.44.02:783][810]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.44.03:783][870]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.44.04:784][930]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
+[2017.12.02-23.44.05:450][970]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.44.05:451][970]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.44.05:475][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.44.05:491][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015651s)
+[2017.12.02-23.44.05:492][970]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.44.05:493][970]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2017.12.02-23.44.05:493][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017659s)
+[2017.12.02-23.44.05:493][970]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.44.05:495][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.44.05
+[2017.12.02-23.44.05:497][970]LogWorld: Bringing up level for play took: 0.002967
+[2017.12.02-23.44.05:499][970]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.44.05:499][970]LogLoad: Took 0.048511 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.44.07:451][ 87]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.44.07:951][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.44.07:984][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.44.13:086][284]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.44.13:110][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.44.13:110][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.44.13:110][284]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:44:13 PM)
+[2017.12.02-23.44.13:110][284]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.44.13:128][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017457s)
+[2017.12.02-23.44.13:130][284]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.44.13:130][284]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2017.12.02-23.44.13:130][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.019619s)
+[2017.12.02-23.44.13:154][284]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.44.13:180][284]LogInit: FAudioDevice initialized.
+[2017.12.02-23.44.13:215][284]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.44.13:217][284]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.44.13
+[2017.12.02-23.44.13:217][284]LogWorld: Bringing up level for play took: 0.001761
+[2017.12.02-23.44.13:219][284]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.44.13:219][284]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.052
+[2017.12.02-23.44.13:219][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.44.15:096][395]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.44.16:096][455]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.44.17:045][512]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.44.17:045][512]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.44.17:072][512]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.44.17:088][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015789s)
+[2017.12.02-23.44.17:089][512]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.44.17:090][512]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2017.12.02-23.44.17:090][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017671s)
+[2017.12.02-23.44.17:090][512]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.44.17:093][512]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.44.17
+[2017.12.02-23.44.17:094][512]LogWorld: Bringing up level for play took: 0.002657
+[2017.12.02-23.44.17:096][512]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.44.17:096][512]LogLoad: Took 0.050572 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.44.18:587][601]LogBlueprintUserMessages: [ExitLevel_BP_226] Victory!
+[2017.12.02-23.44.18:604][602]LogNet: Browse: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.44.18:604][602]LogLoad: LoadMap: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.44.18:728][602]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.44.18:728][602]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.44.18:731][602]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial up for play (max tick rate 60) at 2017.12.02-20.44.18
+[2017.12.02-23.44.18:732][602]LogWorld: Bringing up level for play took: 0.003248
+[2017.12.02-23.44.18:735][602]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.44.18:735][602]LogLoad: Took 0.131450 seconds to LoadMap(/Game/Maps/Nivel_0_Tutorial)
+[2017.12.02-23.44.20:625][714]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.44.21:209][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.44.21:245][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.18:562][299]BlueprintLog: New page: Compile RecnPlay_GameMode_BP
+[2017.12.02-23.45.34:343][217]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.45.34:374][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.34:375][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.45.34:375][217]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:45:34 PM)
+[2017.12.02-23.45.34:375][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.45.34:393][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017146s)
+[2017.12.02-23.45.34:394][217]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.45.34:394][217]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2017.12.02-23.45.34:395][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.019078s)
+[2017.12.02-23.45.34:426][217]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.45.34:452][217]LogInit: FAudioDevice initialized.
+[2017.12.02-23.45.34:483][217]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.34:484][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.45.34
+[2017.12.02-23.45.34:485][217]LogWorld: Bringing up level for play took: 0.001711
+[2017.12.02-23.45.34:486][217]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.34:486][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.681
+[2017.12.02-23.45.34:487][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.36:361][328]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.45.37:361][388]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.45.38:328][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.38:369][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.39:090][487]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.45.39:110][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.39:111][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.45.39:111][487]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:45:39 PM)
+[2017.12.02-23.45.39:111][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.45.39:128][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016813s)
+[2017.12.02-23.45.39:129][487]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.45.39:129][487]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2017.12.02-23.45.39:130][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.018693s)
+[2017.12.02-23.45.39:158][487]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.45.39:186][487]LogInit: FAudioDevice initialized.
+[2017.12.02-23.45.39:222][487]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.39:223][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.45.39
+[2017.12.02-23.45.39:224][487]LogWorld: Bringing up level for play took: 0.001668
+[2017.12.02-23.45.39:226][487]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.39:226][487]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.058
+[2017.12.02-23.45.39:226][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.41:106][598]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.45.41:923][647]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.45.41:923][647]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.45.41:948][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.45.41:964][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015523s)
+[2017.12.02-23.45.41:964][647]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.45.41:965][647]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2017.12.02-23.45.41:965][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017342s)
+[2017.12.02-23.45.41:965][647]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.41:967][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.45.41
+[2017.12.02-23.45.41:969][647]LogWorld: Bringing up level for play took: 0.002387
+[2017.12.02-23.45.41:971][647]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.41:971][647]LogLoad: Took 0.048242 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.45.43:932][764]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.45.44:248][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.44:284][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.48:042][  6]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.45.48:066][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.48:066][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.45.48:066][  6]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:45:48 PM)
+[2017.12.02-23.45.48:066][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.45.48:082][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015788s)
+[2017.12.02-23.45.48:083][  6]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.45.48:084][  6]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2017.12.02-23.45.48:084][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017551s)
+[2017.12.02-23.45.48:110][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.45.48:136][  6]LogInit: FAudioDevice initialized.
+[2017.12.02-23.45.48:168][  6]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.48:170][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.45.48
+[2017.12.02-23.45.48:171][  6]LogWorld: Bringing up level for play took: 0.002134
+[2017.12.02-23.45.48:173][  6]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.48:173][  6]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 1.005
+[2017.12.02-23.45.48:173][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.50:048][117]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.45.51:048][177]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.45.52:049][237]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
+[2017.12.02-23.45.52:681][275]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.45.52:682][275]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.45.52:709][275]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.45.52:724][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015309s)
+[2017.12.02-23.45.52:725][275]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.45.52:725][275]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2017.12.02-23.45.52:726][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017076s)
+[2017.12.02-23.45.52:726][275]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.52:728][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.45.52
+[2017.12.02-23.45.52:729][275]LogWorld: Bringing up level for play took: 0.002262
+[2017.12.02-23.45.52:731][275]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.52:731][275]LogLoad: Took 0.049753 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.45.54:691][392]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.45.55:691][452]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+[2017.12.02-23.45.55:691][452]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2 from function: 'ExecuteUbergraph_RecnPlay_GameMode_BP' from node: Set Array Elem in graph: EventGraph in object: RecnPlay_GameMode_BP with description: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue2
+[2017.12.02-23.45.55:692][452]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.45.55:707][453]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.45.55:707][453]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.45.55:734][453]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.45.55:750][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016159s)
+[2017.12.02-23.45.55:751][453]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.45.55:752][453]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2017.12.02-23.45.55:752][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017872s)
+[2017.12.02-23.45.55:752][453]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.55:754][453]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.45.55
+[2017.12.02-23.45.55:756][453]LogWorld: Bringing up level for play took: 0.002732
+[2017.12.02-23.45.55:757][453]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.55:757][453]LogLoad: Took 0.049982 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.45.56:654][506]LogBlueprintUserMessages: [ExitLevel_BP_226] Victory!
+[2017.12.02-23.45.56:671][507]LogNet: Browse: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.45.56:671][507]LogLoad: LoadMap: /Game/Maps/Nivel_0_Tutorial
+[2017.12.02-23.45.56:794][507]LogAIModule: Creating AISystem for world Nivel_0_Tutorial
+[2017.12.02-23.45.56:794][507]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.45.56:796][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_0_Tutorial.Nivel_0_Tutorial up for play (max tick rate 60) at 2017.12.02-20.45.56
+[2017.12.02-23.45.56:797][507]LogWorld: Bringing up level for play took: 0.002295
+[2017.12.02-23.45.56:798][507]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.45.56:799][507]LogLoad: Took 0.127079 seconds to LoadMap(/Game/Maps/Nivel_0_Tutorial)
+[2017.12.02-23.45.58:673][619]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.45.59:490][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.45.59:527][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.46.07:330][126]LogSavePackage: Save=88.42ms
+[2017.12.02-23.46.07:330][126]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/RecnPlay_GameMode_BP7A5C182F482929F47A30D2A9C7E93CB7.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset'
+[2017.12.02-23.46.07:336][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset
+[2017.12.02-23.46.07:342][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2017.12.02-23.46.07:440][126]LogSavePackage: Save=91.82ms
+[2017.12.02-23.46.07:440][126]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Enemy_BP6A7E7D654365EC987D58E691351C6B24.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset'
+[2017.12.02-23.46.07:448][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset
+[2017.12.02-23.46.42:112][169]BlueprintLog: New page: Compile RecnPlay_GameMode_BP
+[2017.12.02-23.46.43:950][262]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.46.43:980][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.46.43:981][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.46.43:981][262]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:46:43 PM)
+[2017.12.02-23.46.43:981][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.46.44:001][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020063s)
+[2017.12.02-23.46.44:002][262]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.46.44:003][262]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2017.12.02-23.46.44:003][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.022186s)
+[2017.12.02-23.46.44:031][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.46.44:062][262]LogInit: FAudioDevice initialized.
+[2017.12.02-23.46.44:092][262]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.46.44:094][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.46.44
+[2017.12.02-23.46.44:095][262]LogWorld: Bringing up level for play took: 0.002323
+[2017.12.02-23.46.44:097][262]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.46.44:097][262]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.93
+[2017.12.02-23.46.44:098][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.46.45:961][372]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.46.46:962][432]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.46.47:244][449]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.46.47:245][449]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.46.47:270][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.46.47:288][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017914s)
+[2017.12.02-23.46.47:289][449]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.46.47:290][449]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2017.12.02-23.46.47:290][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.019987s)
+[2017.12.02-23.46.47:290][449]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.46.47:293][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.46.47
+[2017.12.02-23.46.47:294][449]LogWorld: Bringing up level for play took: 0.002965
+[2017.12.02-23.46.47:295][449]LogBlueprintUserMessages: [RecnPlay_GameMode_BP_C_0] Lives:3
+[2017.12.02-23.46.47:296][449]LogLoad: Took 0.051116 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.46.48:970][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.46.49:006][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.47.04:919][492]BlueprintLog: New page: Compile RecnPlay_GameMode_BP
+[2017.12.02-23.47.11:476][850]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.02-23.47.54:682][760]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.02-23.47.58:478][988]BlueprintLog: New page: Compile LearningLevel
+[2017.12.02-23.48.01:151][139]BlueprintLog: New page: Compile LearningLevel
+[2017.12.02-23.48.53:396][842]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2017.12.02-23.49.05:283][219]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Nivel_0_Tutorial) is flushing async loading
+[2017.12.02-23.49.11:051][475]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Nivel_1) is flushing async loading
+[2017.12.02-23.49.42:921][234]LogSavePackage: Save=558.30ms
+[2017.12.02-23.49.42:921][234]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevelD304CCB24F8E6E907010FB8FBE75B6CF.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
+[2017.12.02-23.49.42:931][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
+[2017.12.02-23.49.42:948][234]LogFileHelpers: Saving map 'LearningLevel' took 0.710
+[2017.12.02-23.49.43:147][234]LogSavePackage: Save=60.05ms
+[2017.12.02-23.49.43:147][234]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_0_TutorialB8969F5B4F4B9575D6BF3FAAD6D1FCC9.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap'
+[2017.12.02-23.49.43:157][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap
+[2017.12.02-23.49.43:158][234]LogFileHelpers: Saving map 'Nivel_0_Tutorial' took 0.207
+[2017.12.02-23.49.43:397][234]LogSavePackage: Save=99.22ms
+[2017.12.02-23.49.43:398][234]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_1890D91DD41789FC846D93CBDB3B3FC4F.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap'
+[2017.12.02-23.49.43:423][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap
+[2017.12.02-23.49.43:424][234]LogFileHelpers: Saving map 'Nivel_1' took 0.262
+[2017.12.02-23.49.43:527][234]LogSavePackage: Save=87.69ms
+[2017.12.02-23.49.43:528][234]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/RecnPlay_GameMode_BPE2D358BB4A4F4AE54456BE90DD070BDB.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset'
+[2017.12.02-23.49.43:535][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/RecnPlay_GameMode_BP.uasset
+[2017.12.02-23.49.45:824][368]BlueprintLog: New page: Compile RecnPlay_GameMode_BP
+[2017.12.02-23.49.48:673][506]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.49.48:699][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.48:700][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.49.48:700][506]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:49:48 PM)
+[2017.12.02-23.49.48:701][506]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.49.48:727][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026243s)
+[2017.12.02-23.49.48:728][506]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.49.48:729][506]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2017.12.02-23.49.48:730][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.029592s)
+[2017.12.02-23.49.48:767][506]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.49.48:801][506]LogInit: FAudioDevice initialized.
+[2017.12.02-23.49.48:833][506]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.49.48:835][506]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.49.48
+[2017.12.02-23.49.48:836][506]LogWorld: Bringing up level for play took: 0.002169
+[2017.12.02-23.49.48:838][506]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel -0.329
+[2017.12.02-23.49.48:839][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.49:826][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.49:871][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.51:493][646]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.49.51:515][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.51:516][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.49.51:516][646]PIE: New page: PIE session: LearningLevel (Dec 2, 2017, 5:49:51 PM)
+[2017.12.02-23.49.51:516][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.49.51:535][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019032s)
+[2017.12.02-23.49.51:536][646]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.49.51:536][646]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2017.12.02-23.49.51:537][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.020669s)
+[2017.12.02-23.49.51:567][646]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.49.51:592][646]LogInit: FAudioDevice initialized.
+[2017.12.02-23.49.51:632][646]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.49.51:637][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.49.51
+[2017.12.02-23.49.51:640][646]LogWorld: Bringing up level for play took: 0.005986
+[2017.12.02-23.49.51:645][646]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LearningLevel 0.477
+[2017.12.02-23.49.51:646][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.53:494][753]LogBlueprintUserMessages: [Enemy_BP_C_0] 1
+[2017.12.02-23.49.54:494][813]LogBlueprintUserMessages: [Enemy_BP_C_1] 2
+[2017.12.02-23.49.55:494][873]LogBlueprintUserMessages: [Enemy_BP_C_2] 3
+[2017.12.02-23.49.55:577][878]LogNet: Browse: /Game/Maps/LearningLevel
+[2017.12.02-23.49.55:577][878]LogLoad: LoadMap: /Game/Maps/LearningLevel
+[2017.12.02-23.49.55:609][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LearningLevel
+[2017.12.02-23.49.55:624][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015621s)
+[2017.12.02-23.49.55:625][878]LogAIModule: Creating AISystem for world LearningLevel
+[2017.12.02-23.49.55:626][878]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2017.12.02-23.49.55:626][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LearningLevel.LearningLevel to /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel (0.017603s)
+[2017.12.02-23.49.55:626][878]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.49.55:628][878]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LearningLevel.LearningLevel up for play (max tick rate 60) at 2017.12.02-20.49.55
+[2017.12.02-23.49.55:630][878]LogWorld: Bringing up level for play took: 0.003341
+[2017.12.02-23.49.55:632][878]LogLoad: Took 0.054874 seconds to LoadMap(/Game/Maps/UEDPIE_0_LearningLevel)
+[2017.12.02-23.49.56:859][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.49.56:898][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel' with GeneratedClass '/Game/Maps/LearningLevel.LearningLevel_C' with ClassGeneratedBy '/Game/Maps/LearningLevel.LearningLevel:PersistentLevel.LearningLevel'
+[2017.12.02-23.50.27:604][769]BlueprintLog: New page: Compile LearningLevel
+[2017.12.02-23.50.32:493][  2]LogSavePackage: Save=550.03ms
+[2017.12.02-23.50.32:494][  2]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevelCE6597274054198DCB1AD0A51E89D696.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
+[2017.12.02-23.50.32:503][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
+[2017.12.02-23.50.32:520][  2]LogFileHelpers: Saving map 'LearningLevel' took 0.691
+[2017.12.02-23.51.19:653][809]BlueprintLog: New page: Compile Enemy_BP
+[2017.12.02-23.52.01:711][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2017.12.02-23.52.01:844][410]LogSavePackage: Save=80.38ms
+[2017.12.02-23.52.01:844][410]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Enemy_BPF301514642BF277315F721A8B79AB8DC.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset'
+[2017.12.02-23.52.01:852][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Blueprints/Enemy_BP.uasset
+[2017.12.02-23.52.02:577][410]LogSavePackage: Save=460.85ms
+[2017.12.02-23.52.02:577][410]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/LearningLevel7C4E32B343F9C6C1CCB8AAA54D2CA293.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap'
+[2017.12.02-23.52.02:583][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/LearningLevel.umap
+[2017.12.02-23.52.02:599][410]LogFileHelpers: Saving map 'LearningLevel' took 0.746
+[2017.12.02-23.52.02:743][410]LogSavePackage: Save=44.23ms
+[2017.12.02-23.52.02:743][410]LogSavePackage: Moving '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Saved/Nivel_0_Tutorial35D5395F475FDC84BD02F68DA7811888.tmp' to '../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap'
+[2017.12.02-23.52.02:750][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_0_Tutorial.umap
+[2017.12.02-23.52.02:750][410]LogFileHelpers: Saving map 'Nivel_0_Tutorial' took 0.151
+[2017.12.02-23.52.02:756][410]Cmd: MAP LOAD FILE="../../../../../../Users/gustm/Documents/Unreal Projects/GameJam_Dec_2017/GameJam_RecnPlay2017/Content/Maps/Nivel_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-23.52.02:757][410]LightingResults: New page: Lighting Build
+[2017.12.02-23.52.02:758][410]LoadErrors: New page: Loading map: Nivel_1.umap
+[2017.12.02-23.52.02:791][410]MapCheck: New page: Map Check
+[2017.12.02-23.52.02:791][410]LightingResults: New page: Lighting Build
+[2017.12.02-23.52.02:866][410]LogAIModule: Creating AISystem for world Nivel_1
+[2017.12.02-23.52.02:872][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-23.52.02:937][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-23.52.03:065][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 126.943ms to complete.
+[2017.12.02-23.52.03:065][410]LogFileHelpers: Loading map 'Nivel_1' took 0.310
+[2017.12.02-23.52.05:967][578]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-23.52.05:991][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-23.52.05:992][578]PIE: New page: PIE session: Nivel_1 (Dec 2, 2017, 5:52:05 PM)
+[2017.12.02-23.52.05:992][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Nivel_1
+[2017.12.02-23.52.05:997][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004845s)
+[2017.12.02-23.52.05:998][578]LogAIModule: Creating AISystem for world Nivel_1
+[2017.12.02-23.52.05:998][578]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.12.02-23.52.05:998][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Nivel_1.Nivel_1 to /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 (0.006361s)
+[2017.12.02-23.52.06:025][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-23.52.06:052][578]LogInit: FAudioDevice initialized.
+[2017.12.02-23.52.06:086][578]LogLoad: Game class is 'RecnPlay_GameMode_BP_C'
+[2017.12.02-23.52.06:088][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Nivel_1.Nivel_1 up for play (max tick rate 60) at 2017.12.02-20.52.06
+[2017.12.02-23.52.06:088][578]LogWorld: Bringing up level for play took: 0.001511
+[2017.12.02-23.52.06:090][578]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Nivel_1 0.922
